@@ -1,7 +1,10 @@
 ---
 name: Custom issue template
-about: Describe this issue template's purpose here.
+about: Give us some context
 
 ---
 
+In order to help you, please tell us:
 
+* Your shoe number
+* Your favourite color
